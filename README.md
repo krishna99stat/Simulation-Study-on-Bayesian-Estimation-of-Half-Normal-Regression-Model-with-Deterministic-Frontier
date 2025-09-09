@@ -1,0 +1,1 @@
+# Simulation-Study-on-Bayesian-Estimation-of-Half-Normal-Regression-Model-with-Deterministic-Frontier
